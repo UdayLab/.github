@@ -1,6 +1,6 @@
 ## 🙋‍♀️ A short introduction 
 
-Big Data is ubiquitous. Useful information that can empower the end-users to gain a competitive advantage and achieve socio-economic development lies hidden in this data. The Sustainable Ambient Computing Lab (SAC-Lab) aims to explore sustainable novel solutions (mathematical models and fast algorithms) to discover useful information in big data.
+Big Data is ubiquitous. Useful information that can empower the end-users to gain a competitive advantage and achieve socio-economic development lies hidden in this data. The Sustainable Ambient Computing Lab (SAC-Lab) aims to explore sustainable and practicable solutions (through novel mathematical models and fast algorithms) to discover useful information in big data.
 
 <!--
 
