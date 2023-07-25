@@ -3,9 +3,16 @@
 Big Data is ubiquitous. Useful information that can empower the end-users to gain a competitive advantage and achieve socio-economic development lies hidden in this data. The Sustainable Ambient Computing Lab (SAC-Lab) aims to explore sustainable and practicable solutions (through novel mathematical models and fast algorithms) to discover useful information in big data.
 
 ## 👩‍💻 What do we do?
-In the era of Society 5.0, where digital transformation and technological advancements are reshaping our society, the Sustainable Ambient Computing Lab, led by Professor RAGE Uday Kiran at the University of Aizu in Japan, stands at the forefront of innovation. We are dedicated to research endeavors integrating cutting-edge technologies into big data analytics and pattern mining. With a focus on sustainability, our lab recognizes the importance of green computing and strives to develop energy-efficient computing systems and practices that minimize environmental impact. We aim to contribute to a greener and more sustainable digital landscape by leveraging advanced algorithms and optimizing hardware utilization. Our research efforts align with the principles of Society 5.0, which seeks to harmonize economic advancement with social challenges and environmental sustainability.
+In the era of Society 5.0, where digital transformation and technological advancements are reshaping our society, the Sustainable Ambient Computing Lab, led by Professor RAGE Uday Kiran at the University of Aizu in Japan, stands at the forefront of innovation. We are dedicated to research endeavors integrating cutting-edge technologies into big data analytics and pattern mining. With a focus on sustainability, our lab recognizes the importance of green computing and strives to develop energy-efficient computing systems and practices that minimize environmental impact. We aim to contribute to a greener, more sustainable digital landscape by leveraging advanced algorithms and optimizing hardware utilization. Our research efforts align with the principles of Society 5.0, which seeks to harmonize economic advancement with social challenges and environmental sustainability.
 
-At the core, our research lies in big data analytics and pattern mining. By leveraging technologies like CUDA, PySpark, and parallel processing, we strive to optimize data mining algorithms to handle massive datasets efficiently. Our publications and software development efforts have yielded valuable insights into scalable and efficient data mining techniques. Through collaborations with esteemed domestic and international institutions, we actively contribute to advancing knowledge and fostering innovation in the field.
+At the core, our research lies in big data analytics and pattern mining. By leveraging technologies like CUDA, PySpark, and parallel processing, we strive to optimize data mining algorithms to handle massive datasets efficiently. Our publications and software development efforts have yielded valuable insights into scalable and efficient data mining techniques. We actively advance knowledge discovery and foster innovation in the field through collaborations with esteemed domestic and international institutions.
+
+## 🍿 Research topics
+- Intelligent Transporation Systems
+- Data Science for Planetary Systems
+- eCommerce Data (or Customer Purchase History Data) Analytics
+- Air pollution analytics
+
 
 ## 🧙 Collaborators
 - [The University of Tokyo, Tokyo, Japan](https://www.tkl.iis.u-tokyo.ac.jp/new/)
